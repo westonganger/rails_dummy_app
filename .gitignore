@@ -1,0 +1,9 @@
+/.bundle/
+Gemfile.lock
+.DS_Store
+~.*
+~*
+
+test/dummy_app/**/*.sqlite3.db
+test/dummy_app/**/*.sqlite3
+test/dummy_app/**/*.log
